@@ -1,0 +1,1 @@
+leaf.o: leaf.s

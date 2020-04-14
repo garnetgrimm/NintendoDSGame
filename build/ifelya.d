@@ -1,0 +1,1 @@
+ifelya.o: ifelya.s
